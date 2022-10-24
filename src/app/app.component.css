@@ -1,0 +1,16 @@
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+}
+
+.single-select {
+    width: 100%;
+    margin-bottom: 32px;
+}
+
+.multiple-select {
+    width: 100%;
+    margin-bottom: 32px;
+}
